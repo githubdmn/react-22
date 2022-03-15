@@ -1,11 +1,11 @@
-import "./index.css"
+import "./index.css";
 import { Header, FeedbackItem } from "./components";
 
 function App() {
   return (
     <>
       <Header />
-      <div className="content">
+      <div className="container">
         <FeedbackItem />
       </div>
     </>
