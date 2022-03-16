@@ -1,0 +1,1 @@
+export default 'Warning: Each child in a list should have a unique "key" prop. `key` is not a prop.Trying to access it will result in `undefined` being returned.If you need to access the same value within the child component, you should pass it as a different prop.'

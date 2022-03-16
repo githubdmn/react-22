@@ -10,8 +10,8 @@ export default [
 		"text": "This is feedback item 2 coming from the backend"
 	},
 	{
-		"text": "This is feedback item 3 coming from the backend",
+		"id": 3,
 		"rating": 10,
-		"id": 3
+		"text": "This is feedback item 3 coming from the backend"
 	}
 ]
