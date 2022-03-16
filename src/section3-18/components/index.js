@@ -1,4 +1,5 @@
 import Header from "./Header"
-import FeedbackList from "./FeedbackList";
+import FeedbackList from "./FeedbackList"
+import FeedbackStats from "./FeedbackStats";
 
-export { Header, FeedbackList }
+export { Header, FeedbackList, FeedbackStats }
