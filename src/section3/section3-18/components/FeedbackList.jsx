@@ -1,5 +1,5 @@
 import FeedbackItem from "./FeedbackItem";
-import warning from "../../data/warning";
+import warning from "../../../data/warning";
 import propTypes from "prop-types";
 
 function FeedbackList({ data, handleDelete }) {
